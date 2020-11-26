@@ -1,0 +1,59 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>20201003_170917_123.MP4#t=143.4.jpg</filename>
+    <path>video-labeling-PascalVOC-export/Annotations/20201003_170917_123.MP4#t=143.4.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>const_cone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>106.9042316258352</xmin>
+        <ymin>691.9752475247525</ymin>
+        <xmax>161.42538975501114</xmax>
+        <ymax>823.5</ymax>
+    </bndbox>
+</object><object>
+    <name>const_cone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>381.64810690423167</xmin>
+        <ymin>703.7376237623763</ymin>
+        <xmax>413.7193763919822</xmax>
+        <ymax>782.8663366336634</ymax>
+    </bndbox>
+</object><object>
+    <name>const_cone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>339.95545657015595</xmin>
+        <ymin>704.8069306930694</ymin>
+        <xmax>385.9242761692651</xmax>
+        <ymax>790.3514851485149</ymax>
+    </bndbox>
+</object><object>
+    <name>const_cone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>230.91314031180403</xmin>
+        <ymin>701.5990099009902</ymin>
+        <xmax>279.0200445434299</xmax>
+        <ymax>803.1831683168317</ymax>
+    </bndbox>
+</object>
+</annotation>

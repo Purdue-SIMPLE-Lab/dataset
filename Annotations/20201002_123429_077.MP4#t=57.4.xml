@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>20201002_123429_077.MP4#t=57.4.jpg</filename>
+    <path>video-labeling-PascalVOC-export/Annotations/20201002_123429_077.MP4#t=57.4.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>const_cone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>76.97104677060135</xmin>
+        <ymin>709.0841584158417</ymin>
+        <xmax>134.69933184855236</xmax>
+        <ymax>825.6386138613863</ymax>
+    </bndbox>
+</object><object>
+    <name>const_cone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>202.04899777282853</xmin>
+        <ymin>715.5</ymin>
+        <xmax>258.70824053452117</xmax>
+        <ymax>813.8762376237623</ymax>
+    </bndbox>
+</object><object>
+    <name>const_cone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>313.2293986636971</xmin>
+        <ymin>727.2623762376238</ymin>
+        <xmax>352.7839643652561</xmax>
+        <ymax>802.1138613861386</ymax>
+    </bndbox>
+</object><object>
+    <name>const_cone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>395.5456570155902</xmin>
+        <ymin>720.8465346534654</ymin>
+        <xmax>431.89309576837417</xmax>
+        <ymax>785.0049504950496</ymax>
+    </bndbox>
+</object><object>
+    <name>const_cone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>454.3429844097996</xmin>
+        <ymin>716.5693069306931</ymin>
+        <xmax>481.0690423162584</xmax>
+        <ymax>787.1435643564356</ymax>
+    </bndbox>
+</object>
+</annotation>

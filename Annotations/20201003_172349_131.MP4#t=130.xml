@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>20201003_172349_131.MP4#t=130.jpg</filename>
+    <path>video-labeling-PascalVOC-export/Annotations/20201003_172349_131.MP4#t=130.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>ttcs_right_lane_closed_ahead</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1118.2182628062362</xmin>
+        <ymin>531.5792079207921</ymin>
+        <xmax>1268.9532293986638</xmax>
+        <ymax>787.1435643564357</ymax>
+    </bndbox>
+</object>
+</annotation>

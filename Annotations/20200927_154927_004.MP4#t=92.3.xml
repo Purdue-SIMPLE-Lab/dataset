@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>20200927_154927_004.MP4#t=92.3.jpg</filename>
+    <path>video-labeling-PascalVOC-export/Annotations/20200927_154927_004.MP4#t=92.3.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>const_barrel</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1113.942093541203</xmin>
+        <ymin>659.8960396039604</ymin>
+        <xmax>1195.1893095768376</xmax>
+        <ymax>742.2326732673267</ymax>
+    </bndbox>
+</object><object>
+    <name>const_looper_cone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1263.608017817372</xmin>
+        <ymin>635.3019801980198</ymin>
+        <xmax>1312.7839643652562</xmax>
+        <ymax>747.5792079207921</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>20200927_154927_004.MP4#t=129.4.jpg</filename>
+    <path>video-labeling-PascalVOC-export/Annotations/20200927_154927_004.MP4#t=129.4.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>fire_hydrant</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1249.7104677060136</xmin>
+        <ymin>660.9653465346535</ymin>
+        <xmax>1325.6124721603564</xmax>
+        <ymax>760.4108910891089</ymax>
+    </bndbox>
+</object>
+</annotation>

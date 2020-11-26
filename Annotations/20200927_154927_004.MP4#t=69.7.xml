@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>20200927_154927_004.MP4#t=69.7.jpg</filename>
+    <path>video-labeling-PascalVOC-export/Annotations/20200927_154927_004.MP4#t=69.7.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>left_turn</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>775.0556792873052</xmin>
+        <ymin>768.9653465346535</ymin>
+        <xmax>994.2093541202673</xmax>
+        <ymax>845.9554455445544</ymax>
+    </bndbox>
+</object><object>
+    <name>right_turn</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1158.8418708240536</xmin>
+        <ymin>752.9257425742575</ymin>
+        <xmax>1313.8530066815147</xmax>
+        <ymax>811.7376237623763</ymax>
+    </bndbox>
+</object>
+</annotation>

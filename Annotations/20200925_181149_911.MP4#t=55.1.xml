@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>20200925_181149_911.MP4#t=55.1.jpg</filename>
+    <path>video-labeling-PascalVOC-export/Annotations/20200925_181149_911.MP4#t=55.1.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>const_cone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>980.3118040089088</xmin>
+        <ymin>554.0346534653465</ymin>
+        <xmax>1066.9042316258353</xmax>
+        <ymax>672.7277227722773</ymax>
+    </bndbox>
+</object><object>
+    <name>const_cone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>871.2694877505569</xmin>
+        <ymin>545.4801980198021</ymin>
+        <xmax>946.1024498886416</xmax>
+        <ymax>664.1732673267328</ymax>
+    </bndbox>
+</object>
+</annotation>

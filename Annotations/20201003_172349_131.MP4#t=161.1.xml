@@ -1,0 +1,48 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>20201003_172349_131.MP4#t=161.1.jpg</filename>
+    <path>video-labeling-PascalVOC-export/Annotations/20201003_172349_131.MP4#t=161.1.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>const_barrel</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1335.2338530066816</xmin>
+        <ymin>727.2623762376238</ymin>
+        <xmax>1507.3496659242762</xmax>
+        <ymax>918.6683168316832</ymax>
+    </bndbox>
+</object><object>
+    <name>const_barrel</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1001.6926503340758</xmin>
+        <ymin>714.4306930693069</ymin>
+        <xmax>1085.0779510022273</xmax>
+        <ymax>822.4306930693069</ymax>
+    </bndbox>
+</object><object>
+    <name>const_barrel</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>922.5835189309578</xmin>
+        <ymin>722.9851485148515</ymin>
+        <xmax>968.5523385300669</xmax>
+        <ymax>786.0742574257426</ymax>
+    </bndbox>
+</object>
+</annotation>

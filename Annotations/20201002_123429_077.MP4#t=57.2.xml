@@ -1,0 +1,81 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>20201002_123429_077.MP4#t=57.2.jpg</filename>
+    <path>video-labeling-PascalVOC-export/Annotations/20201002_123429_077.MP4#t=57.2.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>const_cone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>701.5990099009902</ymin>
+        <xmax>54.52115812917595</xmax>
+        <ymax>840.6089108910892</ymax>
+    </bndbox>
+</object><object>
+    <name>const_cone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>135.7683741648107</xmin>
+        <ymin>718.7079207920792</ymin>
+        <xmax>192.42761692650333</xmax>
+        <ymax>817.0841584158416</ymax>
+    </bndbox>
+</object><object>
+    <name>const_cone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>249.08685968819603</xmin>
+        <ymin>715.5</ymin>
+        <xmax>297.1937639198219</xmax>
+        <ymax>808.5297029702971</ymax>
+    </bndbox>
+</object><object>
+    <name>const_cone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>400.890868596882</xmin>
+        <ymin>717.6386138613861</ymin>
+        <xmax>443.6525612472161</xmax>
+        <ymax>788.2128712871287</ymax>
+    </bndbox>
+</object><object>
+    <name>const_cone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>323.91982182628067</xmin>
+        <ymin>716.5693069306931</ymin>
+        <xmax>376.3028953229399</xmax>
+        <ymax>803.1831683168317</ymax>
+    </bndbox>
+</object><object>
+    <name>const_cone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>462.8953229398664</xmin>
+        <ymin>709.0841584158417</ymin>
+        <xmax>492.8285077951002</xmax>
+        <ymax>781.7970297029703</ymax>
+    </bndbox>
+</object>
+</annotation>

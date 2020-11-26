@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>20201003_170917_123.MP4#t=143.2.jpg</filename>
+    <path>video-labeling-PascalVOC-export/Annotations/20201003_170917_123.MP4#t=143.2.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>const_cone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>375.23385300668156</xmin>
+        <ymin>704.8069306930694</ymin>
+        <xmax>417.99554565701567</xmax>
+        <ymax>790.3514851485149</ymax>
+    </bndbox>
+</object><object>
+    <name>const_cone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>298.2628062360802</xmin>
+        <ymin>706.9455445544555</ymin>
+        <xmax>346.36971046770606</xmax>
+        <ymax>802.1138613861388</ymax>
+    </bndbox>
+</object><object>
+    <name>const_cone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>207.39420935412028</xmin>
+        <ymin>701.5990099009902</ymin>
+        <xmax>270.46770601336306</xmax>
+        <ymax>820.2920792079209</ymax>
+    </bndbox>
+</object><object>
+    <name>const_cone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>81.24721603563475</xmin>
+        <ymin>698.3910891089109</ymin>
+        <xmax>149.66592427616928</xmax>
+        <ymax>829.9158415841584</ymax>
+    </bndbox>
+</object><object>
+    <name>const_cone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>444.72160356347445</xmin>
+        <ymin>718.7079207920792</ymin>
+        <xmax>476.792873051225</xmax>
+        <ymax>783.9356435643565</ymax>
+    </bndbox>
+</object>
+</annotation>

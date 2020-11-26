@@ -1,0 +1,48 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>roadmark_0027.jpg</filename>
+    <path>RoadMarking-Labelling-PascalVOC-export/Annotations/roadmark_0027.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>left_turn</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>204.89977728285078</xmin>
+        <ymin>326.92878338278933</ymin>
+        <xmax>260.5790645879733</xmax>
+        <ymax>349.6290801186944</ymax>
+    </bndbox>
+</object><object>
+    <name>left_turn</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>349.6659242761693</xmin>
+        <ymin>326.48367952522256</ymin>
+        <xmax>433.4075723830735</xmax>
+        <ymax>349.1839762611276</ymax>
+    </bndbox>
+</object><object>
+    <name>right_turn</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>497.9955456570156</xmin>
+        <ymin>323.36795252225517</ymin>
+        <xmax>570.1559020044543</xmax>
+        <ymax>349.18397626112755</ymax>
+    </bndbox>
+</object>
+</annotation>
